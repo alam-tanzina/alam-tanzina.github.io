@@ -5,11 +5,16 @@ body {
 h1 {
   text-align: center;
   color: #834d21;
-  font-size: 30px;
-  
+    font-size: 30px;
 }
 
 p {
   text-align: center;
   color: #986129;
 }
+
+.about-me {
+    border: 4px brown dotted;
+    
+}
+
