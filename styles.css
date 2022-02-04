@@ -21,3 +21,8 @@ p {
 hr.solid {
   border-top: 3px solid beige;
 }
+
+h2 {
+  text-align: center;
+  color: #834d21;
+}
