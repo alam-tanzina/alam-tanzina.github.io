@@ -2,7 +2,12 @@ body {
   background-color: #f7e7ce;
 }
 
-h1, p {
+h1 {
   text-align: center;
   color: #834d21;
+}
+
+p {
+  text-align: center;
+  color: #986129;
 }
