@@ -1,8 +1,8 @@
 body {
-  color: #f7e7ce;
+  background-color: #f7e7ce;
 }
 
-h1 {
-  text-align: right;
+h1, p {
+  text-align: center;
   color: #834d21;
 }
